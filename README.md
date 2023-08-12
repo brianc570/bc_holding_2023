@@ -1,5 +1,6 @@
 # bc_productivity_data_analysis_report__2023
-Holding Of Productivity Data Analysis 
+Holding Of Productivity Data Analysis-----
+
 Here is a "dummy" version of an actual spreadsheet that automatically calculates productivity pulled from a SQL database. This is not real data - but mock data. It's 99% self-automated, the only thing that needs to be tended to are the internal lookup tables. This was built to reduce time on manually building reports & improve accuracy.
 
 Previously, it would take about a week to complete (chunks of time each day). The tabs calculate just like a pivot table and a dashboard was added for data visualization.
