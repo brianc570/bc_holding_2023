@@ -1,0 +1,5 @@
+Process,Volume,Overtime,Hours,Throughput,Target,Efficiency,Throughput St. Dev,Efficiency St. Dev
+C - Company Dummy,59947,0,151.82,417,600,70%,417.30,70%
+N - Company Dummy,100774,2,133.2,1132,600,189%,1132.37,189%
+E - Company Dummy,888148,45,638.7,756,800,94%,755.73,0%
+G - Company Dummy,163497,0,278.1,547,800,68%,546.92,0%
